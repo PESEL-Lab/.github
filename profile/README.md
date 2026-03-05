@@ -1,4 +1,7 @@
-## Power Electronics and Smart Laboratory (PESEL)
+## Power Electronics and Smart Laboratory (PESEL), UW-Milwaukee
+
+
+Hardcore Power Electronics research group located at UWM university services and research building.
 
 <!--
 
